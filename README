@@ -1,0 +1,17 @@
+Code for "Joint Modeling of Reaction Time and Choice Improves Parameter Identifiability in Reinforcement Learning Models"
+
+
+RL Parameter Identifiability.ipynb
+This code simulates the parameter identifiability issues in RL and generates Figures 1a,c.
+
+discounting_parameter_identifiability.ipynb
+This code simulates the parameter identifiability issues in TD and generates Figures 1b,d.
+
+fit_models.ipynb
+This code generates simulated subject cohorts and attempts to recover their parameters for both TD and RL. This code generates figure Figure 2.
+
+power_analysis.ipynb
+This code generates Figure 3.
+
+bandit-wimmer.ipynb
+This code generates Figure 4.
